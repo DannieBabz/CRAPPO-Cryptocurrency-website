@@ -1,2 +1,1 @@
-# CRAPPO-Cryptocurrency-website
-Cryptocurrency Website
+# CRAPPO - Cryptocurrency website
